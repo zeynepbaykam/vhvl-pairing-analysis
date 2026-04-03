@@ -1,0 +1,27 @@
+# External tools
+LICHEN/
+FLAb/
+
+# Large data and output files
+*.zip
+*.gz
+*.pdb
+*.cif
+*.png
+*.csv
+*.xlsx
+*.npy
+*.ipynb
+__pycache__/
+*.pyc
+*.tar.gz
+*Zone.Identifier*
+oas/
+oas-aligned/
+bispec_arpeggio_outputs/
+LICHEN_arpeggio_outputs/
+LICHEN_ABB2_ada_structures/
+LICHEN_ABB2_pemb_structures/
+therasabdab_bispec_cognate_noncognate_structures/
+ada_aligned_structures/
+pemb_aligned_structures/
